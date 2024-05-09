@@ -8,7 +8,7 @@ second task is all about that they provide us a datasets from that we have to do
 and submit as second task
 
 # 3rd Task:
-In this task we had to make a presentation and give it to the stakeholder and as well as i had to make some visuals using Excel.
+In this task we had to make a presentation and give it to the stakeholder and as well as i had to make some visuals or insight using any data visulization tool.
 
 # 4th Task:
 Whatever you have made during last task you have present to the stakeholder.
